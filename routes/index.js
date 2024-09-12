@@ -381,14 +381,7 @@ const cropDiseases = [
     "symptoms": ["Late blight symptoms", "Reduced stalk quality"],
     "cures": ["Fungicide application", "Prune infected leaves"]
   },
-  {
-    "id": 86,
-    "name": "Grapevine Black Measles",
-    "description": "A fungal disease affecting grapevine leaves.",
-    "causes": ["Fungi"],
-    "symptoms": ["Black measles symptoms", "Reduced grape yield"],
-    "cures": ["Fungicide spray", "Prune infected branches"]
-  },
+
 ];
 
 
