@@ -365,22 +365,6 @@ const cropDiseases = [
     "symptoms": ["Clubroot symptoms", "Stunted growth"],
     "cures": ["Fungicide treatment", "Crop rotation"]
   },
-  {
-    "id": 84,
-    "name": "Almond Brown Rot",
-    "description": "A fungal disease causing brown rot in almond fruits.",
-    "causes": ["Fungi"],
-    "symptoms": ["Brown rot symptoms", "Fruit decay"],
-    "cures": ["Fungicide spray", "Prune infected branches"]
-  },
-  {
-    "id": 85,
-    "name": "Celery Late Blight",
-    "description": "A fungal disease causing late blight in celery leaves.",
-    "causes": ["Fungi"],
-    "symptoms": ["Late blight symptoms", "Reduced stalk quality"],
-    "cures": ["Fungicide application", "Prune infected leaves"]
-  },
 
 ];
 
