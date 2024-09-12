@@ -389,14 +389,6 @@ const cropDiseases = [
     "symptoms": ["Black measles symptoms", "Reduced grape yield"],
     "cures": ["Fungicide spray", "Prune infected branches"]
   },
-  {
-    "id": 87,
-    "name": "Olive Anthracnose",
-    "description": "A fungal disease causing anthracnose in olive fruits.",
-    "causes": ["Fungi"],
-    "symptoms": ["Anthracnose lesions", "Reduced fruit quality"],
-    "cures": ["Fungicide spray", "Prune infected branches"]
-  },
 ];
 
 
